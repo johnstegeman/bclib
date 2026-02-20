@@ -10,7 +10,8 @@ import (
 )
 
 const (
-	blockMagicID = 0xd9b4bef9
+	//blockMagicID = 0xd9b4bef9
+	blockMagicID = 0x3e9638f3
 	serGetHash   = 1 << 2
 )
 
