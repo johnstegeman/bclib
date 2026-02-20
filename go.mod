@@ -1,4 +1,4 @@
-module github.com/chainswatch/bclib
+module github.com/johnstegeman/bclib
 
 go 1.12
 
