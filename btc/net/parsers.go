@@ -1,7 +1,7 @@
 package net
 
 import (
-	"github.com/chainswatch/bclib/parser"
+	"github.com/johnstegeman/bclib/parser"
 
 	"bytes"
 	"encoding/binary"

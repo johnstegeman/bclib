@@ -1,7 +1,7 @@
 package btc
 
 import (
-	"github.com/chainswatch/bclib/serial"
+	"github.com/johnstegeman/bclib/serial"
 
 	"bytes"
 	"strings"

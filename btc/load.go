@@ -1,8 +1,8 @@
 package btc
 
 import (
-	"github.com/chainswatch/bclib/models"
-	"github.com/chainswatch/bclib/parser"
+	"github.com/johnstegeman/bclib/models"
+	"github.com/johnstegeman/bclib/parser"
 
 	"fmt"
 	log "github.com/sirupsen/logrus"

@@ -10,5 +10,5 @@ Installation and Updating
 -------------------------
 
 ```bash
-$ go get -u github.com/chainswatch/bclib
+$ go get -u github.com/johnstegeman/bclib
 ```

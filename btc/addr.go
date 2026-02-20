@@ -4,8 +4,8 @@ package btc
 
 import (
 	"fmt"
-	"github.com/chainswatch/bclib/serial"
-	"github.com/chainswatch/bclib/serial/bech32"
+	"github.com/johnstegeman/bclib/serial"
+	"github.com/johnstegeman/bclib/serial/bech32"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/chainswatch/bclib/serial"
+	"github.com/johnstegeman/bclib/serial"
 	"testing"
 )
 
